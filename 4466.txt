@@ -1,0 +1,6 @@
+Thank you for your interest in Doug Rosenberg's and Matt Stephens' book "Use Case Driven Object Modeling with UML". You came here because you are looking for the source code. The authors have chosen to make the example code available from their Iconix Process website. In doing that, they are better able to maintain the code and fix any problems that it might have. 
+
+You can download the example code, which implements the two, Internet bookstore use cases,
+from the following URL: http://iconixprocess.com/downloads/internet-bookstore/
+
+Note that the example configuration requires version 1.2 of the Spring Framework.
